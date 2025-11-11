@@ -1,0 +1,57 @@
+<html> 
+<head> 
+<title> table </title> 
+</head> 
+<body> 
+<h1 align="center">CURRICULUM VITAE</h1> 
+<b>NAME:</b> FATIMA 
+<b>D.O.B:</b> 01.01.2000 
+<b>GENDER:</b> FEMALE 
+<br> <br> 
+<br> <br> 
+<br> <br> 
+<b>EMAIL:</b> fatima@gmail.com <br> <br> 
+<b>PHONE NO.:</b>9963473843 <br> <br> 
+<b>ADDRESS:</b> JAUNPUR 
+<br> <br> 
+<h3>EDUCATION DETAILS</h3> 
+<table border=" "> 
+<tr> 
+<th>COURSE</th> 
+<th>SCHOOL/UNIVERSITY</th> 
+<th>MAX MARKS</th> 
+<th>MARKS OBTAINED</th> 
+<th>PERCENTAGE</th> 
+</tr> 
+<tr> 
+<td>BTECH (CSE)</td> 
+<td>INTEGRAL UNIVERSITY</td> 
+<td>4800</td> 
+<td>4300</td> 
+<td>89.5</td> 
+</tr> 
+<tr> 
+<td>INTERMEDIATE</td> 
+<td>LUCKNOW PUBLIC COLLEGE</td> 
+<td>600</td> 
+<td>500</td> 
+<td>83.3</td> 
+</tr> 
+<tr> 
+<td>HIGH SCHOOL</td> 
+<td>LUCKNOW PUBLIC COLLEGE</td> 
+<td>500</td> 
+<td>450</td> 
+<td>90</td> 
+</tr> 
+</table> 
+<br> 
+<b>SKILLS</b> 
+<p>M.S. OFFICE</p> 
+<p>C</p> 
+<p>C++</p> 
+<p>JAVA</p>
+<p>ASP.NET</p> 
+<p>PYTHON</p> 
+</body> 
+</html>
