@@ -1,0 +1,13 @@
+<html> 
+<head> 
+<style>
+.line1{
+background-color:red}
+</style>
+</head> 
+<body> 
+<h1>This is Inline CSS</h1> 
+<p class="line1">This is example of CSS.</p> 
+<p class="line2">nnjdfhjgjgjjf</p>
+</body> 
+</html>
